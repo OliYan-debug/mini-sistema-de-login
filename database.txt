@@ -1,0 +1,12 @@
+username;Password
+username1;Password1
+username2;Password2
+joão candido;abcde
+nanaue;123456
+nareba;321654
+jiraya;530721
+Soltin;lala21
+jyraia;123123
+irineu;vcnaosabenemeu
+nananue2;abc
+slw;ak47
